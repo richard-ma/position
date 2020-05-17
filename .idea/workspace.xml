@@ -59,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589725825476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add 地图位置">
+      <created>1589726247183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589726247183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <created>1589726262494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589726262494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,12 +92,18 @@
     <MESSAGE value="add images" />
     <MESSAGE value="remove" />
     <MESSAGE value="add 地图平面图和环境概览" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 地图平面图和环境概览" />
+    <MESSAGE value="add 地图位置" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589725843733">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589726266343">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589725843733" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589726266343" />
+    <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589726205939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1589726205939" />
   </component>
 </project>
