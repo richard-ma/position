@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13494c9f-d445-490f-b828-e9023099ff78" name="Default Changelist" comment="" />
+    <list default="true" id="13494c9f-d445-490f-b828-e9023099ff78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/主街道 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/主街道 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/主街道 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/主街道 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/主街道 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/主街道 (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/sources/地图平面图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/于家堡商务区/于家堡商务区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +44,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1c3qykJUkGwsgvUsUtjAND081x5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="SvnConfiguration">
@@ -90,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589727528662</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1589728404719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589728404719</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13494c9f-d445-490f-b828-e9023099ff78" name="Default Changelist" comment="" />
+      <created>1589767881084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589767881084</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,13 +150,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1589727507050" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589727534449">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589728415003">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589727534449" />
-    <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589726205939">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589728415003" />
+    <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590727140476">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1589726205939" />
+    <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590727140476" />
   </component>
 </project>
