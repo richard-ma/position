@@ -42,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -146,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590731310527</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1590731392317</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590731392317</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1590731764386</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590731764386</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,18 +185,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1590729953565">
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1590731779781">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590729953565" />
-    <state x="461" y="184" key="SettingsEditor" timestamp="1589727507050">
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590731779781" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1590731597642">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1589727507050" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590731313593">
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590731597642" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590731768649">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590731313593" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590731768649" />
     <state x="571" y="229" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590727140476">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
